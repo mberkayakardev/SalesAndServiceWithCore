@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\SalesAndService\\SalesAndService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|d:\\github\\salesandservice\\salesandservice\\salesandservice.core\\utilities\\security\\hashhelper\\hashhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|solutionrelative:salesandservice.core\\utilities\\security\\hashhelper\\hashhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|d:\\github\\salesandservice\\salesandservice\\salesandservice.core\\extentions\\fluentvalidation\\fluentapiextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|solutionrelative:salesandservice.core\\extentions\\fluentvalidation\\fluentapiextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|d:\\github\\salesandservice\\salesandservice\\salesandservice.core\\extentions\\fluentvalidation\\complextypes\\errormodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|solutionrelative:salesandservice.core\\extentions\\fluentvalidation\\complextypes\\errormodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|d:\\github\\salesandservice\\salesandservice\\salesandservice.core\\extentions\\controller\\mvccontrollerextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|solutionrelative:salesandservice.core\\extentions\\controller\\mvccontrollerextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|d:\\github\\salesandservice\\salesandservice\\salesandservice.core\\extentions\\controller\\apicontrollerextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|solutionrelative:salesandservice.core\\extentions\\controller\\apicontrollerextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|d:\\github\\salesandservice\\salesandservice\\salesandservice.core\\dataaccess\\dapper\\concrete\\dpgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|solutionrelative:salesandservice.core\\dataaccess\\dapper\\concrete\\dpgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|d:\\github\\salesandservice\\salesandservice\\salesandservice.core\\dataaccess\\dapper\\abstract\\idpgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|solutionrelative:salesandservice.core\\dataaccess\\dapper\\abstract\\idpgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|d:\\github\\salesandservice\\salesandservice\\salesandservice.core\\dataaccess\\entityframework\\concrete\\efgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|solutionrelative:salesandservice.core\\dataaccess\\entityframework\\concrete\\efgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|d:\\github\\salesandservice\\salesandservice\\salesandservice.core\\dataaccess\\entityframework\\abstract\\iefgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|solutionrelative:salesandservice.core\\dataaccess\\entityframework\\abstract\\iefgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|d:\\github\\salesandservice\\salesandservice\\salesandservice.core\\utilities\\pagination\\complextypes\\pagerresultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|solutionrelative:salesandservice.core\\utilities\\pagination\\complextypes\\pagerresultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|d:\\github\\salesandservice\\salesandservice\\salesandservice.core\\utilities\\pagination\\complextypes\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|solutionrelative:salesandservice.core\\utilities\\pagination\\complextypes\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|d:\\github\\salesandservice\\salesandservice\\salesandservice.core\\utilities\\pagination\\complextypes\\requestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|solutionrelative:salesandservice.core\\utilities\\pagination\\complextypes\\requestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|d:\\github\\salesandservice\\salesandservice\\salesandservice.core\\utilities\\pagination\\complextypes\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|solutionrelative:salesandservice.core\\utilities\\pagination\\complextypes\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|d:\\github\\salesandservice\\salesandservice\\salesandservice.core\\dtos\\concrete\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|solutionrelative:salesandservice.core\\dtos\\concrete\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|d:\\github\\salesandservice\\salesandservice\\salesandservice.core\\dtos\\abstract\\baseupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|solutionrelative:salesandservice.core\\dtos\\abstract\\baseupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|d:\\github\\salesandservice\\salesandservice\\salesandservice.core\\dtos\\abstract\\iupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|solutionrelative:salesandservice.core\\dtos\\abstract\\iupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|d:\\github\\salesandservice\\salesandservice\\salesandservice.core\\dtos\\abstract\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|solutionrelative:salesandservice.core\\dtos\\abstract\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|d:\\github\\salesandservice\\salesandservice\\salesandservice.core\\dtos\\abstract\\idto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|solutionrelative:salesandservice.core\\dtos\\abstract\\idto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|d:\\github\\salesandservice\\salesandservice\\salesandservice.core\\entities\\abstract\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|solutionrelative:salesandservice.core\\entities\\abstract\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|d:\\github\\salesandservice\\salesandservice\\salesandservice.core\\entities\\abstract\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|solutionrelative:salesandservice.core\\entities\\abstract\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|d:\\github\\salesandservice\\salesandservice\\salesandservice.core\\entities\\concrete\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D91C7C6D-AB45-4A55-B2E1-90B6B2E6CBE5}|SalesAndService.Core\\SalesAndService.Core.csproj|solutionrelative:salesandservice.core\\entities\\concrete\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HashHelpers.cs",
+              "DocumentMoniker": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Utilities\\Security\\HashHelper\\HashHelpers.cs",
+              "RelativeDocumentMoniker": "SalesAndService.Core\\Utilities\\Security\\HashHelper\\HashHelpers.cs",
+              "ToolTip": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Utilities\\Security\\HashHelper\\HashHelpers.cs",
+              "RelativeToolTip": "SalesAndService.Core\\Utilities\\Security\\HashHelper\\HashHelpers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T19:50:31.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorModels.cs",
+              "DocumentMoniker": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Extentions\\FluentValidation\\ComplexTypes\\ErrorModels.cs",
+              "RelativeDocumentMoniker": "SalesAndService.Core\\Extentions\\FluentValidation\\ComplexTypes\\ErrorModels.cs",
+              "ToolTip": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Extentions\\FluentValidation\\ComplexTypes\\ErrorModels.cs",
+              "RelativeToolTip": "SalesAndService.Core\\Extentions\\FluentValidation\\ComplexTypes\\ErrorModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T19:47:03.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FluentApiExtentions.cs",
+              "DocumentMoniker": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Extentions\\FluentValidation\\FluentApiExtentions.cs",
+              "RelativeDocumentMoniker": "SalesAndService.Core\\Extentions\\FluentValidation\\FluentApiExtentions.cs",
+              "ToolTip": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Extentions\\FluentValidation\\FluentApiExtentions.cs",
+              "RelativeToolTip": "SalesAndService.Core\\Extentions\\FluentValidation\\FluentApiExtentions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T19:46:04.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MVCControllerExtentions.cs",
+              "DocumentMoniker": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Extentions\\Controller\\MVCControllerExtentions.cs",
+              "RelativeDocumentMoniker": "SalesAndService.Core\\Extentions\\Controller\\MVCControllerExtentions.cs",
+              "ToolTip": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Extentions\\Controller\\MVCControllerExtentions.cs",
+              "RelativeToolTip": "SalesAndService.Core\\Extentions\\Controller\\MVCControllerExtentions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T19:45:18.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiControllerExtentions.cs",
+              "DocumentMoniker": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Extentions\\Controller\\ApiControllerExtentions.cs",
+              "RelativeDocumentMoniker": "SalesAndService.Core\\Extentions\\Controller\\ApiControllerExtentions.cs",
+              "ToolTip": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Extentions\\Controller\\ApiControllerExtentions.cs",
+              "RelativeToolTip": "SalesAndService.Core\\Extentions\\Controller\\ApiControllerExtentions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T19:45:04.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DpGenericRepository.cs",
+              "DocumentMoniker": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\DataAccess\\Dapper\\Concrete\\DpGenericRepository.cs",
+              "RelativeDocumentMoniker": "SalesAndService.Core\\DataAccess\\Dapper\\Concrete\\DpGenericRepository.cs",
+              "ToolTip": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\DataAccess\\Dapper\\Concrete\\DpGenericRepository.cs",
+              "RelativeToolTip": "SalesAndService.Core\\DataAccess\\Dapper\\Concrete\\DpGenericRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T19:40:55.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDpGenericRepository.cs",
+              "DocumentMoniker": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\DataAccess\\Dapper\\Abstract\\IDpGenericRepository.cs",
+              "RelativeDocumentMoniker": "SalesAndService.Core\\DataAccess\\Dapper\\Abstract\\IDpGenericRepository.cs",
+              "ToolTip": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\DataAccess\\Dapper\\Abstract\\IDpGenericRepository.cs",
+              "RelativeToolTip": "SalesAndService.Core\\DataAccess\\Dapper\\Abstract\\IDpGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T19:40:28.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EfGenericRepository.cs",
+              "DocumentMoniker": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\DataAccess\\EntityFramework\\Concrete\\EfGenericRepository.cs",
+              "RelativeDocumentMoniker": "SalesAndService.Core\\DataAccess\\EntityFramework\\Concrete\\EfGenericRepository.cs",
+              "ToolTip": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\DataAccess\\EntityFramework\\Concrete\\EfGenericRepository.cs",
+              "RelativeToolTip": "SalesAndService.Core\\DataAccess\\EntityFramework\\Concrete\\EfGenericRepository.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAawI4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T19:35:31.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PagerResultViewModel.cs",
+              "DocumentMoniker": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Utilities\\Pagination\\ComplexTypes\\PagerResultViewModel.cs",
+              "RelativeDocumentMoniker": "SalesAndService.Core\\Utilities\\Pagination\\ComplexTypes\\PagerResultViewModel.cs",
+              "ToolTip": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Utilities\\Pagination\\ComplexTypes\\PagerResultViewModel.cs",
+              "RelativeToolTip": "SalesAndService.Core\\Utilities\\Pagination\\ComplexTypes\\PagerResultViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T19:34:58.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PagedList.cs",
+              "DocumentMoniker": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Utilities\\Pagination\\ComplexTypes\\PagedList.cs",
+              "RelativeDocumentMoniker": "SalesAndService.Core\\Utilities\\Pagination\\ComplexTypes\\PagedList.cs",
+              "ToolTip": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Utilities\\Pagination\\ComplexTypes\\PagedList.cs",
+              "RelativeToolTip": "SalesAndService.Core\\Utilities\\Pagination\\ComplexTypes\\PagedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T19:34:14.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RequestParameters.cs",
+              "DocumentMoniker": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Utilities\\Pagination\\ComplexTypes\\RequestParameters.cs",
+              "RelativeDocumentMoniker": "SalesAndService.Core\\Utilities\\Pagination\\ComplexTypes\\RequestParameters.cs",
+              "ToolTip": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Utilities\\Pagination\\ComplexTypes\\RequestParameters.cs",
+              "RelativeToolTip": "SalesAndService.Core\\Utilities\\Pagination\\ComplexTypes\\RequestParameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T19:30:05.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MetaData.cs",
+              "DocumentMoniker": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Utilities\\Pagination\\ComplexTypes\\MetaData.cs",
+              "RelativeDocumentMoniker": "SalesAndService.Core\\Utilities\\Pagination\\ComplexTypes\\MetaData.cs",
+              "ToolTip": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Utilities\\Pagination\\ComplexTypes\\MetaData.cs",
+              "RelativeToolTip": "SalesAndService.Core\\Utilities\\Pagination\\ComplexTypes\\MetaData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T19:33:50.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEfGenericRepository.cs",
+              "DocumentMoniker": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\DataAccess\\EntityFramework\\Abstract\\IEfGenericRepository.cs",
+              "RelativeDocumentMoniker": "SalesAndService.Core\\DataAccess\\EntityFramework\\Abstract\\IEfGenericRepository.cs",
+              "ToolTip": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\DataAccess\\EntityFramework\\Abstract\\IEfGenericRepository.cs",
+              "RelativeToolTip": "SalesAndService.Core\\DataAccess\\EntityFramework\\Abstract\\IEfGenericRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA8AAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T19:09:36.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TextFile1.txt",
+              "DocumentMoniker": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Dtos\\Concrete\\TextFile1.txt",
+              "RelativeDocumentMoniker": "SalesAndService.Core\\Dtos\\Concrete\\TextFile1.txt",
+              "ToolTip": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Dtos\\Concrete\\TextFile1.txt",
+              "RelativeToolTip": "SalesAndService.Core\\Dtos\\Concrete\\TextFile1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-02-21T19:00:40.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseUpdateDto.cs",
+              "DocumentMoniker": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Dtos\\Abstract\\BaseUpdateDto.cs",
+              "RelativeDocumentMoniker": "SalesAndService.Core\\Dtos\\Abstract\\BaseUpdateDto.cs",
+              "ToolTip": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Dtos\\Abstract\\BaseUpdateDto.cs",
+              "RelativeToolTip": "SalesAndService.Core\\Dtos\\Abstract\\BaseUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T18:55:05.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUpdateDto.cs",
+              "DocumentMoniker": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Dtos\\Abstract\\IUpdateDto.cs",
+              "RelativeDocumentMoniker": "SalesAndService.Core\\Dtos\\Abstract\\IUpdateDto.cs",
+              "ToolTip": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Dtos\\Abstract\\IUpdateDto.cs",
+              "RelativeToolTip": "SalesAndService.Core\\Dtos\\Abstract\\IUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T18:54:17.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseDto.cs",
+              "DocumentMoniker": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Dtos\\Abstract\\BaseDto.cs",
+              "RelativeDocumentMoniker": "SalesAndService.Core\\Dtos\\Abstract\\BaseDto.cs",
+              "ToolTip": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Dtos\\Abstract\\BaseDto.cs",
+              "RelativeToolTip": "SalesAndService.Core\\Dtos\\Abstract\\BaseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T18:54:01.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDto.cs",
+              "DocumentMoniker": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Dtos\\Abstract\\IDto.cs",
+              "RelativeDocumentMoniker": "SalesAndService.Core\\Dtos\\Abstract\\IDto.cs",
+              "ToolTip": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Dtos\\Abstract\\IDto.cs",
+              "RelativeToolTip": "SalesAndService.Core\\Dtos\\Abstract\\IDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T18:53:18.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TextFile1.txt",
+              "DocumentMoniker": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Entities\\Concrete\\TextFile1.txt",
+              "RelativeDocumentMoniker": "SalesAndService.Core\\Entities\\Concrete\\TextFile1.txt",
+              "ToolTip": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Entities\\Concrete\\TextFile1.txt",
+              "RelativeToolTip": "SalesAndService.Core\\Entities\\Concrete\\TextFile1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-02-21T18:52:28.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Entities\\Abstract\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "SalesAndService.Core\\Entities\\Abstract\\BaseEntity.cs",
+              "ToolTip": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Entities\\Abstract\\BaseEntity.cs",
+              "RelativeToolTip": "SalesAndService.Core\\Entities\\Abstract\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T18:33:47.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Entities\\Abstract\\IEntity.cs",
+              "RelativeDocumentMoniker": "SalesAndService.Core\\Entities\\Abstract\\IEntity.cs",
+              "ToolTip": "D:\\Github\\SalesAndService\\SalesAndService\\SalesAndService.Core\\Entities\\Abstract\\IEntity.cs",
+              "RelativeToolTip": "SalesAndService.Core\\Entities\\Abstract\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T18:30:18.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

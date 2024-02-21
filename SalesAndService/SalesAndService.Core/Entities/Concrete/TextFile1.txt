@@ -1,0 +1,3 @@
+﻿Tüm Projelerinizde ortak kullanılabilme ihtimali olan Entityler bu bölümde tanımlanabilir. Neticesinde ben böyle bir işlem gerçekleştiremeyeceğim. ama klasörleme yapısı için
+ilgili süreç eklenmiştir. 
+

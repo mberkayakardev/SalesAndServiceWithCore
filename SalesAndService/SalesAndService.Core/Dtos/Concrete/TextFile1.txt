@@ -1,0 +1,2 @@
+﻿Eğer sistemde varsayılan olarak gelecek olan entityleriniz varsa neticesinde bunlara uygun DTO larınızı burada belirtebilirsiniz. Klasörleme yapısına uygun kalması için bu şekilde
+ilgili süreçte bir düzenleme gerçekleştirilmiştir. 
