@@ -1,6 +1,6 @@
 ﻿namespace SalesAndService.Core.Extentions.ControllerExtentions
 {
-    public class ApiControllerExtentions
+    public class Api
     {
     }
 }
